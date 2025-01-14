@@ -13,11 +13,11 @@
 
 ## My GitHub Stats
 
-![jngafua22's GitHub stats](https://github-readme-stats.vercel.app/api?username=jngafua22&show_icons=true&theme=radical)
+![jngafua22's GitHub stats](https://github-readme-stats.vercel.app/api?username=jngafua22&show_icons=true&theme=chartreuse-dark)
 
 ## Languages and Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jngafua22&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jngafua22&layout=compact&theme=chartreuse-dark)
 
 <!-- You can add more sections if needed -->
 
