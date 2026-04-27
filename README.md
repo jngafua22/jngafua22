@@ -23,7 +23,7 @@
 
 Here are some of my notable projects:
 
-- [@jngafua22's Project SAFe [Demo]](https://github.com/jngafua22/project1)
+- [@jngafua22's Project SAFe [Demo]](https://github.com/users/jngafua22/projects/1)
   - Demostration project for agile methodologies in GitHub.
 
 ## Connect with Me
