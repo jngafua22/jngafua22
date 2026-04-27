@@ -4,12 +4,10 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **[Your Learning Focus]**
-- 👯 I’m looking to collaborate on **[Projects or Technologies]**
-- 🤔 I’m looking for help with **[Specific Help Needed]**
-- 💬 Ask me about **[Your Expertise or Interests]**
-- 📫 How to reach me: **[Your Contact Information]**
-- ⚡ Fun fact: **[Something Interesting About You]**
+- 🌱 I’m currently learning **Python (.py)**
+- 👯 I’m looking to collaborate on **Terraform or Bicep (IaC) Projects/Technologies**
+- 🤔 I’m looking for help with **Azure Managed Redis (AMR)  integration with Azure Kubernetes Services (AKS)**
+- 📫 How to reach me: **j.ngafua@mr-2r.com**
 
 ## My GitHub Stats
 
@@ -25,14 +23,12 @@
 
 Here are some of my notable projects:
 
-- [Project 1](https://github.com/jngafua22/project1)
-  - Description of project 1
-- [Project 2](https://github.com/jngafua22/project2)
-  - Description of project 2
+- [@jngafua22's Project SAFe [Demo]](https://github.com/jngafua22/project1)
+  - Demostration project for agile methodologies in GitHub.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/jngafua22/)
-- [Twitter](https://twitter.com/jngafua22)
+- [LinkedIn](https://www.linkedin.com/in/jngafua/)
+<!-- - [Twitter](https://twitter.com/jngafua2) -->
 
 <!-- Add any other links or social media accounts -->
